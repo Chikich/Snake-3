@@ -1,0 +1,7 @@
+F:\Рабочий стол\GEEKBRAINS\Snake-3\snale\snale\bin\Debug\snale.exe.config
+F:\Рабочий стол\GEEKBRAINS\Snake-3\snale\snale\bin\Debug\snale.exe
+F:\Рабочий стол\GEEKBRAINS\Snake-3\snale\snale\bin\Debug\snale.pdb
+F:\Рабочий стол\GEEKBRAINS\Snake-3\snale\snale\obj\Debug\snale.csprojAssemblyReference.cache
+F:\Рабочий стол\GEEKBRAINS\Snake-3\snale\snale\obj\Debug\snale.csproj.CoreCompileInputs.cache
+F:\Рабочий стол\GEEKBRAINS\Snake-3\snale\snale\obj\Debug\snale.exe
+F:\Рабочий стол\GEEKBRAINS\Snake-3\snale\snale\obj\Debug\snale.pdb
